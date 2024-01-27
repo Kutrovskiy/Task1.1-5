@@ -1,0 +1,14 @@
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\bin\Debug\net8.0\ЗПУ Задание 3.exe
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\bin\Debug\net8.0\ЗПУ Задание 3.deps.json
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\bin\Debug\net8.0\ЗПУ Задание 3.runtimeconfig.json
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\bin\Debug\net8.0\ЗПУ Задание 3.dll
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\bin\Debug\net8.0\ЗПУ Задание 3.pdb
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\ЗПУ Задание 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\ЗПУ Задание 3.AssemblyInfoInputs.cache
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\ЗПУ Задание 3.AssemblyInfo.cs
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\ЗПУ Задание 3.csproj.CoreCompileInputs.cache
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\ЗПУ Задание 3.dll
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\refint\ЗПУ Задание 3.dll
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\ЗПУ Задание 3.pdb
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\ЗПУ Задание 3.genruntimeconfig.cache
+D:\GX downloads\VisualStudio\ЗПУ Задание 3\ЗПУ Задание 3\obj\Debug\net8.0\ref\ЗПУ Задание 3.dll

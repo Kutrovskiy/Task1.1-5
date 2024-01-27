@@ -1,0 +1,14 @@
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\bin\Debug\net8.0\ЗПУ Задание 5.exe
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\bin\Debug\net8.0\ЗПУ Задание 5.deps.json
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\bin\Debug\net8.0\ЗПУ Задание 5.runtimeconfig.json
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\bin\Debug\net8.0\ЗПУ Задание 5.dll
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\bin\Debug\net8.0\ЗПУ Задание 5.pdb
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\ЗПУ Задание 5.GeneratedMSBuildEditorConfig.editorconfig
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\ЗПУ Задание 5.AssemblyInfoInputs.cache
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\ЗПУ Задание 5.AssemblyInfo.cs
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\ЗПУ Задание 5.csproj.CoreCompileInputs.cache
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\ЗПУ Задание 5.dll
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\refint\ЗПУ Задание 5.dll
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\ЗПУ Задание 5.pdb
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\ЗПУ Задание 5.genruntimeconfig.cache
+D:\GX downloads\VisualStudio\ЗПУ Задание 5\ЗПУ Задание 5\obj\Debug\net8.0\ref\ЗПУ Задание 5.dll
