@@ -1,0 +1,4 @@
+D:\1GX downloads\Download\GITHUB\VS задания\Task1. 1-11\Task1. 1-11\obj\Debug\net8.0\Task1. 1-11.GeneratedMSBuildEditorConfig.editorconfig
+D:\1GX downloads\Download\GITHUB\VS задания\Task1. 1-11\Task1. 1-11\obj\Debug\net8.0\Task1. 1-11.AssemblyInfoInputs.cache
+D:\1GX downloads\Download\GITHUB\VS задания\Task1. 1-11\Task1. 1-11\obj\Debug\net8.0\Task1. 1-11.AssemblyInfo.cs
+D:\1GX downloads\Download\GITHUB\VS задания\Task1. 1-11\Task1. 1-11\obj\Debug\net8.0\Task1. 1-11.csproj.CoreCompileInputs.cache
